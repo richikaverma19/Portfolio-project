@@ -66,3 +66,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ### Acknowledgments
 
 - All the open-source contributors whose code and resources were used in this project.
+- BharatIntern for providing this opportunity and guidance.
